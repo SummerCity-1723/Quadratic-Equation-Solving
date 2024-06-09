@@ -10,7 +10,7 @@ When you finished entering:
   press ENTER twice, then the answer will be calculated and shown~
 
 
-============================================================================
+=============================================================================
 [Chinese]                                       
 这是一个计算一元二次方程的py程序(ax^2+bx+c=0,a不等于0！)
                                                                  
