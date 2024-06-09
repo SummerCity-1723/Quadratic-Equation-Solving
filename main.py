@@ -1,6 +1,3 @@
-from rich import traceback
-traceback.install(show_locals=True)
-
 #函数定义
 def gcd(x,y=0): #最大公因数
     a,b=abs(x),abs(y)
