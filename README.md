@@ -1,7 +1,7 @@
 Quadtratic Equation Solving/一元二次方程计算程序 (Update-20240609)
 
 [English]                                 
-This is a python program for solving some standard quadratic equations (which is ax^2+bx+c=0,a DOESN'T equals to 0!)
+This is a python program for solving standard quadratic equation (which is ax^2+bx+c=0,a DOESN'T equals to 0!)
                                                           
 How to try:                                                          
 After requiring "请输入项系数a,b,c(ax²+bx+c=0)[空格间隔]:",                                 
